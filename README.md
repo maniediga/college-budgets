@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Scuoler: An Open Learning Management System (LMS)
 
 [![License: MIT](https://img.shields.io/github/license/mathewjoseph31/schools?style=plastic)](https://opensource.org/licenses/MIT)
@@ -136,3 +137,6 @@ SOFTWARE.
 
 For inquiries, please contact [Mathew Joseph](https://scuoler.com/contactUs)
 or email me [Mathew Joseph](mailto:mathew@scuoler.com).
+=======
+# college-budgets
+>>>>>>> f8bc9bdd340de6e0005fcd5c8081aad204947623
